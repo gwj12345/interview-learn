@@ -13,7 +13,7 @@ cd docs/.vuepress/dist
 echo 'gwj12345.github.io' > CNAME
 if [ -z "$GITHUB_TOKEN" ]; then
   msg='deploy'
-  githubUrl=git@github.com:gwj12345/interview-learn.git
+  githubUrl=git@github.com:gwj12345/interview-learn.git``
 else
   msg='来自github actions的自动部署'
   githubUrl=https://gwj12345:${GITHUB_TOKEN}@github.com/gwj12345/interview-learn.git
@@ -23,6 +23,7 @@ fi
 git init
 git add -A
 git commit -m "${msg}"
+git checkout -B main # 切换到main分支才能推送，不然会报错
 git push -f $githubUrl main:gh-pages # 推送到github
 
 cd - # 退回开始所在目录
