@@ -74,9 +74,5 @@ module.exports = [
       { text: '一些技术', link: '/pages/829562/' },
       { text: '安全相关', link: '/pages/56e2d2/' }
     ],
-  },
-  {
-    text: 'APP下载',
-    link: 'https://www.yd-mobile.cn/pack/download?versionId=2497&packName=com.xiaoyou.interview'
   }
 ]
