@@ -1,8 +1,8 @@
 
-<p align="center"><a href="https://gwj12345.github.io/interview-learn/" target="_blank" rel="noopener noreferrer"><img width="180" src="docs/.vuepress/public/img/study.png" alt="logo"></a></p>
+<p align="center"><a href="https://interview.gwj1314.cn" target="_blank" rel="noopener noreferrer"><img width="180" src="docs/.vuepress/public/img/study.png" alt="logo"></a></p>
 
 <p align="center">
-    <a href="https://gwj12345.github.io/interview-learn/"> <img src="https://badgen.net/badge/%E5%B0%8F%E5%93%88%E9%87%8C/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph"></a>
+    <a href="https://interview.gwj1314.cn"> <img src="https://badgen.net/badge/%E5%B0%8F%E5%93%88%E9%87%8C/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph"></a>
   <a href="https://github.com/gwj12345/interview-learn/actions?query=workflow%3ACI"><img src="https://github.com/gwj12345/interview-learn/workflows/CI/badge.svg" alt="CI"></a>
   <a href="https://github.com/gwj12345/interview-learn"><img src="https://img.shields.io/github/stars/gwj12345/interview-learn?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"></a>
    <a href="https://github.com/gwj12345/interview-learn"> <img src="https://badgen.net/github/forks/gwj12345/interview-learn?icon=github"></a>
@@ -11,7 +11,7 @@
 
 > 最后一次更新：2023.02.05
 
-在线阅读地址：[程序语言学习笔记](https://gwj12345.github.io/interview-learn/)
+在线阅读地址：[程序语言学习笔记](https://interview.gwj1314.cn)
 
 ### 1、创建目的
 
