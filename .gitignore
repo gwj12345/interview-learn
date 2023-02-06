@@ -16,6 +16,7 @@ docs/.vuepress/dist
 # mac
 .DS_Store
 
-# docs
-docs_bck
+# backups
+back
+
 

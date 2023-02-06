@@ -4,7 +4,7 @@ home: true
 heroText: 面试问题学习笔记
 tagline: 小哈里，2023.02.05
 actionText: 快速开始
-actionLink: /code/
+actionLink: /base/
 bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 # 不显示文章列表
