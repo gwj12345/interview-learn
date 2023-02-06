@@ -11,9 +11,6 @@ bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | no
 postList: none
 ---
 
-
-<p align="center"><a href="https://gwj12345.github.io/interview-learn/" target="_blank" rel="noopener noreferrer"><img width="180" src="docs/.vuepress/public/img/study.png" alt="logo"></a></p>
-
 <p align="center">
     <a href="https://gwj12345.github.io/interview-learn/"> <img src="https://badgen.net/badge/%E5%B0%8F%E5%93%88%E9%87%8C/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph"></a>
   <a href="https://github.com/gwj12345/interview-learn/actions?query=workflow%3ACI"><img src="https://github.com/gwj12345/interview-learn/workflows/CI/badge.svg" alt="CI"></a>
